@@ -1,4 +1,4 @@
-# 🎓 College Task Solver
+# 🎓 Academic Assignments Solutions
 
 This repository contains a collection of my solved college assignments and academic tasks. It includes work from various subjects across different semesters, all gathered in one place for reference, revision, and sharing.
 
