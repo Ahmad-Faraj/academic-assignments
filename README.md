@@ -1,38 +1,17 @@
-# 🎓 Academic Assignments Solutions
+# 🎓 Academic Assignment Solutions
 
-This repository contains a collection of my solved college assignments and academic tasks. It includes work from various subjects across different semesters, all gathered in one place for reference, revision, and sharing.
-
-## 💡 What's Inside
-
-- 📚 Programming assignments in MATLAB, Python, C++, and more
-- 🧠 Solutions to logic-based and math-related tasks
-- 🔍 Clean and simple code with meaningful structure
-- ✅ Verified solutions that helped me through college
-
-## 📂 Structure
-
-Each folder is organized by topic or subject (where applicable). Script files are labeled clearly, and solutions follow a consistent style.
+A collection of my solved college assignments and academic tasks across various subjects—organized for reference, revision, and sharing.
 
 ## 📌 Purpose
 
-This repo serves as:
-- A personal archive of my academic journey
-- A quick reference to revisit solved problems
-- A helpful resource for fellow students
-
-## 🛠️ Tech Stack
-
-- MATLAB
-- Python
-- C++
-- Bash (for scripting)
-- Possibly more in the future
+- Personal archive of coursework  
+- Quick reference for solved problems  
+- Helpful resource for fellow students
 
 ## 📈 Contributions
 
-This repository is primarily for my personal work, but feel free to browse, learn, and use anything that helps. If you have suggestions or want to collaborate on academic utilities, you're welcome to open an issue or fork.
+This repo is mainly for personal use, but feel free to explore, learn, or adapt anything here. Suggestions and collaboration are always welcome.
 
 ---
 
-> **Note:** All content here is meant for educational purposes. If you're a student, try solving the problems on your own first before using any reference.
-
+> ⚠️ **Note:** All content is for educational use. Please attempt the problems yourself before referring to the solutions.
