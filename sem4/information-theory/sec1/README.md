@@ -1,4 +1,4 @@
-# MATLAB Tasks Solutions
+# MATLAB Section 1 Tasks Solutions
 
 ## Page 1: Assign multiplication result to variable `m`
 ```matlab
