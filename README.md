@@ -1,6 +1,6 @@
 # 🎓 Academic Assignment Solutions
 
-A collection of my solved college assignments and academic tasks across various subjects—organized for reference, revision, and sharing.
+A collection of my solved college assignments and academic tasks across various subjects—organized for reference.
 
 ## Purpose
 
