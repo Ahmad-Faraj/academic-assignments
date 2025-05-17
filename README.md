@@ -1,6 +1,6 @@
 # 🎓 Academic Assignment Solutions
 
-A collection of my solved college assignments and academic tasks across various subjects—organized for reference.
+A slightly chaotic archive of my coursework work and academic tasks spanning programming, mathematics, computer science, and software engineering.
 
 ## Purpose
 
@@ -14,4 +14,4 @@ This repo is mainly for personal use, but feel free to explore, learn, or adapt 
 
 ---
 
-> ⚠️ **Note:** All content is for educational use. Please attempt the problems yourself before referring to the solutions.
+> ⚠️ **Note:** All content is for educational use. Please attempt the problems yourself before referring to the solutions — that’s where the actual pain (learning) happens.
