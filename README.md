@@ -10,7 +10,7 @@ A collection of my solved college assignments and academic tasks across various 
 
 ## Contributions
 
-This repo is mainly for personal use, but feel free to explore, learn, or adapt anything here. Suggestions and collaboration are always welcome.
+This repo is mainly for personal use, but feel free to explore, learn, or adapt anything here.
 
 ---
 
