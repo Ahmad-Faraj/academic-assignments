@@ -70,7 +70,7 @@ This simplifies to:
 T(n) = Θ(n^3)
 ```
 
-### ✅ Final Answer (a): Θ(n³)
+### Final Answer (a): Θ(n³)
 
 ---
 
