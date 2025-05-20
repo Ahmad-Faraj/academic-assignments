@@ -2,11 +2,13 @@
 A personal archive of coursework covering programming, mathematics, computer science, and software engineering.
 
 ## Purpose
+• Central reference for coursework • Fast access to solved tasks • Shared resource for learners
+
 - Centralized reference for solved academic tasks
 - Quick reference for solved problems  
 - Open resource for fellow students
 
-## Contributions
+### Contributions
 This repo is mainly for personal use, but feel free to explore, learn, or adapt anything here.
 
 ---
