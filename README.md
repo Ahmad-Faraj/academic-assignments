@@ -1,6 +1,6 @@
 # 🎓 Academic Assignment Solutions
 
-An archive of my coursework and academic tasks spanning programming, mathematics, computer science, and software engineering.
+A personal archive of coursework covering programming, mathematics, computer science, and software engineering.
 
 ## Purpose
 
