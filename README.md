@@ -22,4 +22,4 @@ This repo is mainly for personal use, but feel free to explore, learn, or adapt 
 
 ---
 
-> ⚠️ **Note:** All content is for educational use. Please attempt the problems yourself before referring to the solutions — that’s where the actual pain (learning) happens.
+> ⚠️ **Note:** All content is for educational use. Please attempt the problems yourself before referring to the solutions — that’s where the actual learning happens.
