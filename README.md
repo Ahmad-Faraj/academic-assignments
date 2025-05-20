@@ -3,7 +3,7 @@ A personal archive of coursework covering programming, mathematics, computer sci
 - Centralized reference for solved academic tasks
 - Open resource for fellow students
 
-## Index
+---
 
 | Year | Semester | Subjects | Material                                             | Tasks                                                |
 |-------|----------|----------|-----------------------------------------------------|------------------------------------------------------|
