@@ -16,10 +16,10 @@ A personal archive of coursework covering programming, mathematics, computer sci
 | 1st  | [Sem 2](https://drive.google.com/drive/folders/1Xvpm7IhlZ3mqrrotrWnDucgIf6JfUyK4) | Statistics & Probability, Linear Algebra, Programming, Technical Writing, Quality Science, Logic Design | Not Archived |
 | 2nd  | [Sem 3](https://drive.google.com/drive/folders/1YpcTsLyNtx3L-Ci-uHGHXe8Gxm1ygDqG) | Stochastic Processes, Operations Research, Web Programming, Data Structures, OOP, Programming Concepts | Not Archived |
 | 2nd  | [Sem 4](https://drive.google.com/drive/folders/12isT7BfX8w9eJiEx5yOhS8FFsyZYGc-c) | ODE, Advanced Math, Information Theory, E-Business, Algorithms, Physics | Archived |
-| 3rd  | Sem 5 | N/A | Not Covered Yet |
-| 3rd  | Sem 6 | N/A | Not Covered Yet |
-| 4th  | Sem 7 | N/A | Not Covered Yet |
-| 4th  | Sem 8 | N/A | Not Covered Yet |
+| 3rd  | Sem 5 | N/A | Not Covered |
+| 3rd  | Sem 6 | N/A | Not Covered |
+| 4th  | Sem 7 | N/A | Not Covered |
+| 4th  | Sem 8 | N/A | Not Covered |
 
 
 ---
