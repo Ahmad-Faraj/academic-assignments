@@ -3,8 +3,6 @@ A personal archive of coursework covering programming, mathematics, computer sci
 - Centralized reference for solved academic tasks
 - Open resource for fellow students
 
----
-
 | Year | Semester | Subjects | Material                                             | Tasks                                                |
 |-------|----------|----------|-----------------------------------------------------|------------------------------------------------------|
 | 1st   | Sem 1    | Calculus, Information Systems, Database Systems, Computer Science, Discrete Math, English, Social Issues | [Drive](https://drive.google.com/drive/folders/1PEFGBvjuRxqUeYj3j6a3RFGgUn3NZUEn) | GitHub                                               |
@@ -15,11 +13,8 @@ A personal archive of coursework covering programming, mathematics, computer sci
 | 3rd   | Sem 6    | N/A      | Drive                                               | GitHub                                               |
 | 4th   | Sem 7    | N/A      | Drive                                               | GitHub                                               |
 | 4th   | Sem 8    | N/A      | Drive                                               | GitHub                                               |
----
 
 ### Contributions
 This repo is mainly for personal use, but feel free to explore, learn, or adapt anything here.
-
----
 
 > ⚠️ **Note:** All content is for educational use. Please attempt the problems yourself before referring to the solutions — that’s where the actual learning happens.
