@@ -8,6 +8,7 @@ In my opinion, **Sorting**, **Searching**, and **Math** algorithms are the most 
 
 ---
 
+> There were no DP in the lectures :(
 ## Structure
 
 ```plaintext
@@ -59,5 +60,4 @@ exam/
     ├── Postorder.cpp
     └── Preorder.cpp
 ```
-
 > ### I hope your hard work pays off — do your best!
