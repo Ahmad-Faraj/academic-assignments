@@ -1,10 +1,10 @@
 # 📚 Algorithms
-This repository contains all the algorithms mentioned in the lectures, provided in **pseudocode** and implemented in **C++**.
+This repository contains all the algorithms covered in the lectures, with each **pseudocode** translated and implemented in **C++**.
 
 ---
 
-## My Opinion
-In my opinion, **Sorting** & **Searching** and **Math** algorithms are the most important to prepare for the Essay questions in the exam.
+## Advice
+In my opinion, **Sorting**, **Searching**, and **Math** algorithms are the most important to prepare for the essay questions in the exam.
 
 ---
 
