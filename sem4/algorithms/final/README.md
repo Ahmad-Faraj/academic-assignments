@@ -1,34 +1,14 @@
-# 📚 Algorithms & Data Structures Templates
-
-This repository contains clear and concise C++ implementations of fundamental algorithms and data structures. The templates are organized by topic and intended for quick reference, competitive programming, technical interviews, and personal study.
-
----
-
-## ⚡️ My Opinion
-
-> ✅ **In my opinion, Sorting and Searching algorithms are the most important to master first.**  
-> They are the backbone of efficient problem-solving and should be learned thoroughly before moving on to other topics.
+# 📚 Algorithms
+This repository contains all the algorithms mentioned in the lectures, provided in **pseudocode** and implemented in **C++**.
 
 ---
 
-## 📑 Topics Overview
-
-| Topic | Description |
-|-------|--------------|
-| **Sorting Algorithms** | Quick Sort, Merge Sort, Heap Sort, Bubble Sort (including optimized versions), Insertion Sort, Selection Sort. |
-| **Searching Algorithms** | Binary Search, Sequential Search. |
-| **Graph Algorithms** | BFS, DFS, Dijkstra’s Algorithm, Prim’s Algorithm, Kruskal’s Algorithm (Minimum Spanning Tree), Topological Sort, General Graph Search. |
-| **Trees** | Tree traversals: Inorder, Preorder, Postorder, Level Order. |
-| **Selection** | Quick Select, Max Element Finder. |
-| **Math & Number Theory** | Factorial, GCD (iterative and recursive), Fibonacci, Factor GCD, Gaussian Elimination, Horner's Method, Matrix Multiplication, Russian Peasant Multiplication. |
-| **Strings** | String Matching. |
-| **Bits** | Binary conversion and recursive binary operations. |
-| **Geomatry** | Closest Pair Problem. |
-| **Miscellaneous** | Unique Elements Finder. |
+## My Opinion
+In my opinion, **Sorting** & **Searching** and **Math** algorithms are the most important to prepare for the Essay questions in the exam.
 
 ---
 
-## 📂 Project Structure
+## Structure
 
 ```plaintext
 exam/
