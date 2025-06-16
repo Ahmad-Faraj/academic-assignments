@@ -59,6 +59,6 @@ exam/
     ├── Postorder.cpp
     └── Preorder.cpp
 ```
-I noticed that there were no DP in the lectures :(
+I noticed that DP got skipped in the lectures :(
 > ### Finally, I hope your hard work pays off — do your best!
 
