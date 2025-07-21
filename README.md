@@ -10,7 +10,7 @@ A personal archive of coursework covering programming, mathematics, computer sci
 | 2nd   | Sem 3    | Stochastic Processes, Operations Research, Web Programming, Data Structures, OOP, Programming Concepts | [Drive](https://drive.google.com/drive/folders/1YpcTsLyNtx3L-Ci-uHGHXe8Gxm1ygDqG) | GitHub                                               | Not Archived |
 | 2nd   | Sem 4    | ODE, Advanced Math, Information Theory, Algorithms, E-Business, Physics | [Drive](https://drive.google.com/drive/folders/12isT7BfX8w9eJiEx5yOhS8FFsyZYGc-c) | [GitHub](https://github.com/Ahmad-Faraj/academic-assignments/tree/main/sem4) |
 | 3rd   | Sem 5    | N/A      | [Drive](https://drive.google.com/drive/folders/1p8bnNb_HuNP3KeojsuW5XFiCvnRju1vk)                                               | GitHub                                               |
-| 3rd   | Sem 6    | N/A      | Drive                                               | GitHub                                               |
+| 3rd   | Sem 6    | N/A      | [Drive]([https://drive.google.com/drive/folders/1p8bnNb_HuNP3KeojsuW5XFiCvnRju1vk](https://drive.google.com/drive/folders/1xEkYZIbVGDY7UEwOGKkGjntwKE8bF1S7))                                               | GitHub                                               |
 | 4th   | Sem 7    | N/A      | Drive                                               | GitHub                                               |
 | 4th   | Sem 8    | N/A      | Drive                                               | GitHub                                               |
 
