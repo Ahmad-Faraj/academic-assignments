@@ -1,5 +1,5 @@
 # 🎓 Academic Assignment Solutions
-A personal archive of coursework covering programming, mathematics, computer science, and software engineering.
+An archive of coursework covering programming, mathematics, computer science, and software engineering.
 - Centralized reference for solved academic tasks
 - Open resource for fellow students
 
