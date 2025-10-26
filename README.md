@@ -12,5 +12,5 @@ References, resources, and solved coursework from **Suez Canal University** in M
 | 4th   | Sem 7 CS | N/A      | Drive | None |
 | 4th   | Sem 8 CS | N/A      | Drive | None |
 
-> This repo is mainly for personal use, but feel free to explore, learn, or adapt anything here.  
-> **Note:** All content is for educational use. Please attempt the problems yourself before referring to the solutions — that’s where the actual learning happens.
+> - This repo is mainly for personal use, but feel free to explore, learn, or adapt anything here.  
+> - All content is for educational use. Please attempt the problems yourself before referring to the solutions — that’s where the actual learning happens.
