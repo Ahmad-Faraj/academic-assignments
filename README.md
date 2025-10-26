@@ -13,7 +13,7 @@ An archive of coursework covering programming, mathematics, computer science, an
 | 3rd   | Sem 6 CS | N/A      | [Drive](https://drive.google.com/drive/folders/1pAVCzvG23mccIqRRzb_LYvI8V_Zv31d8) | None |
 | 4th   | Sem 7 CS | N/A      | Drive | None |
 | 4th   | Sem 8 CS | N/A      | Drive | None |
-### Contributions
-This repo is mainly for personal use, but feel free to explore, learn, or adapt anything here.
+
+> This repo is mainly for personal use, but feel free to explore, learn, or adapt anything here.
 
 > ⚠️ **Note:** All content is for educational use. Please attempt the problems yourself before referring to the solutions — that’s where the actual learning happens.
