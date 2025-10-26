@@ -1,5 +1,5 @@
 # 🎓 Academic Assignment Solutions
-A Centralized reference for solved academic tasks of coursework covering programming, mathematics, computer science, and software engineering.
+A reference for solved academic tasks of coursework covering mathematics, computer science, and software engineering.
 
 | Year | Semester | Subjects | Material | Tasks |
 | :----: | :-------: | :--------: | :-------: | :-----: |
