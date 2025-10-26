@@ -1,5 +1,5 @@
 # 🎓 Academic Assignment Solutions
-References, resources, and solved tasks from **Suez Canal University** coursework in Mathematics and Computer Science.
+References, resources, and solved coursework from **Suez Canal University** in Mathematics and Computer Science.
 
 | Year | Semester | Subjects | Material | Tasks |
 | :----: | :-------: | :--------: | :-------: | :-----: |
