@@ -1,5 +1,5 @@
 # 🎓 Academic Assignment Solutions
-A reference for solved academic tasks of coursework covering mathematics, computer science, and software engineering.
+References, resources, and solved tasks from **Suez Canal University** coursework in Mathematics, Computer Science, and Software Engineering.
 
 | Year | Semester | Subjects | Material | Tasks |
 | :----: | :-------: | :--------: | :-------: | :-----: |
